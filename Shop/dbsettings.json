@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=DESKTOP-0KR13D0;Database=shop;User Id=sa;password=CtvbhfvblfSQL;Trusted_Connection=False;MultipleActiveResultSets=true;"
+  }
+}
