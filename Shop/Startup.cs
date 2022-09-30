@@ -45,6 +45,7 @@ namespace Shop {
                 AppDBContent content = scope.ServiceProvider.GetRequiredService<AppDBContent>();
                 DBObjects.Initial(content);
             }
+            int a = 1;
         }
     }
 }
