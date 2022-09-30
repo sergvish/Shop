@@ -46,6 +46,7 @@ namespace Shop {
                 DBObjects.Initial(content);
             }
             int a = 1;
+            int b = 1;
         }
     }
 }
